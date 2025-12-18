@@ -1,6 +1,6 @@
 # todo_list
 
-A new Flutter project.
+A simple Flutter Todo List app that allows users to add, mark tasks as complete, and delete them, demonstrating local state management, real-time UI updates, and basic CRUD operations without using a database.
 
 ## Getting Started
 
